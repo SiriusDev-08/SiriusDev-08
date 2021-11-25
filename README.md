@@ -1,7 +1,7 @@
 ### Olá, eu sou o Márcio (Sirius-Dev)! 👋
 
 
-- 🔭 Atualmente busco trabalhar com Front-End/React Development
+- 🔭 Atualmente busco trabalhar com Front-End/Web Development utilizando a biblioteca React
 - 🌱 Estou estudando Python para lidar com dados. 
 - 😄 Pronomes: ele/dele
 
