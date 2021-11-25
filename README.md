@@ -4,7 +4,6 @@
 - 🔭 Atualmente busco trabalhar com Front-End/React Development
 - 🌱 Estou estudando Python para lidar com dados. 
 - 😄 Pronomes: ele/dele
-##
 
 <div align="center">
   <a href="https://github.com/SiriusDev-08">
